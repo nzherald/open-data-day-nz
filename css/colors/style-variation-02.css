@@ -1,0 +1,79 @@
+body {  
+	background:#648594 url(../../images/background_2.jpg) center center fixed; 
+	background-size:100% 100%;
+}	
+
+h1, h2, h3, h4, h5, h6 {
+	color: #323f4a;
+}
+
+a, a:visited {
+	color: #323f4a;
+}  
+
+a:hover {
+	color: #333; 
+}  
+	
+.loading #loadingoverlay {
+	background: #1f9be0;
+}
+
+a.button, a.button:visited {  
+	background: #1f9be0;
+}	
+
+a.button-light, a.button-light:visited {
+	background: #323f4a;
+  	border:1px solid #323f4a;
+  	color: #fff;
+}
+ 
+.large, .medium {  
+	color: #1f9be0;
+}
+
+.form-row input.btn {
+	background: #1f9be0;	
+}
+
+#footer a .medium:hover { 
+	color: #1f9be0; 
+}
+
+#footer a .medium:hover { 
+	color: #1f9be0; 
+}
+
+#sidebar ul li h3.label span {
+	color: #1f9be0	
+}
+
+.hero h2 span { 
+	border-bottom: solid 5px #1f9be0;
+}	
+
+.hero .form-box .top .spacer {
+	background: #1f9be0;
+}
+
+.demo-box span {
+	color: #1f9be0;
+}
+
+.price .option span.spacer {
+	background: #1f9be0;
+}			
+
+.form-row input.btn { 
+	background: #1f9be0;  	
+}
+
+.form-row input.btn:hover, 
+.form-row input.btn:focus {
+	background: #1f9be0;
+}	
+
+.price .ribbon {
+	background-color: #323f4a;
+}

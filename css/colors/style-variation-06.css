@@ -1,0 +1,134 @@
+body {  
+	background:#333;
+}	
+
+.videooverlay {
+	background-color: rgba(0,0,0,.5);	
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #333;
+}
+
+a, a:visited {
+	color: #333;
+}  
+
+a:hover {
+	color: #444; 
+}  
+	
+.loading #loadingoverlay {
+	background: #f13016;
+}
+
+#loadingoverlay h2 { 
+	color:#333		
+}
+
+a.button, a.button:visited {  
+	text-transform: uppercase;
+	background: #333;
+	color:#fff;
+	border: solid 1px #333; 
+	font-weight: 400;
+}
+a.button span {
+	color: #f13016;
+}
+
+a.button:hover {
+	background: #333; 
+  	color: #fff;
+}	
+
+a.button-light, a.button-light:visited {
+	background: #fff; 
+	border: solid 1px #333; 
+	color:#333;
+}
+
+a.button-light span {
+	color:#333;	
+}
+ 
+.large, .medium {  
+	color: #f13016;
+}
+
+.form-row input.btn {
+	text-transform: uppercase;
+	background: #f13016;
+	color:#333; 	
+}
+
+.form-row input.btn:hover {
+	background: #333; 
+  	color: #fff;	
+}
+
+#footer a .medium:hover { 
+	background: #333; 
+  	color: #fff;
+} 
+
+#sidebar ul li h3.label span {
+	color: #f13016	
+}
+
+.hero h2 span { 
+	border-bottom: solid 5px #f13016;
+}	
+
+.hero .form-box .top .spacer {
+	background: #f13016;
+}
+
+.hero .button {
+	border:0;
+	background: #f13016 !important;
+	border: solid 2px #f13016 !important;
+	color:#fff;
+}
+
+.hero .button-light {
+	border: solid 2px #fff !important;
+	background: rgba(0,0,0,.2) !important;
+	color: #fff;
+}
+
+.demo-box span {
+	color: #f13016;
+}
+
+.price .option span.spacer {
+	background: #f13016;
+}			
+
+.form-row input.btn { 
+	background: #f13016; 
+	color:#fff; 	
+}
+
+.form-row input.btn:hover, 
+.form-row input.btn:focus {
+	background: #f13016; 
+	color:#fff; 
+}	
+
+.price .ribbon {
+	background-color: #f13016;
+	color:#333;
+}
+	
+.box-right .image-box {
+	background: url(../../pictures/sample2.jpg) 50% 0 / cover no-repeat;	
+}
+
+.box-left .image-box {
+	background: url(../../pictures/sample6.jpg) 50% 0 / cover no-repeat;	
+}
+
+.price { 
+	background:#333;
+}

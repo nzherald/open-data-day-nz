@@ -1,0 +1,96 @@
+body {  
+	background:#69c7c6;  
+}	
+
+h1, h2, h3, h4, h5, h6 {
+	color: #323f4a;
+}
+
+a, a:visited {
+	color: #323f4a;
+}  
+
+a:hover {
+	color: #333; 
+}  
+	
+.loading #loadingoverlay {
+	background: #69c7c6;
+}
+
+a.button, a.button:visited {  
+	background: #69c7c6;
+}	
+
+a.button-light, a.button-light:visited {
+	background: #323f4a;
+  	border:1px solid #323f4a;
+  	color: #fff;
+}
+ 
+.large, .medium {  
+	color: #69c7c6;
+}
+
+.form-row input.btn {
+	background: #69c7c6;	
+}
+
+#footer a .medium:hover { 
+	color: #69c7c6; 
+}
+
+#footer a .medium:hover { 
+	color: #69c7c6; 
+}
+
+#sidebar ul li h3.label span {
+	color: #69c7c6	
+}
+
+.hero h2 span { 
+	border-bottom: solid 5px #69c7c6;
+}	
+
+.hero .form-box .top .spacer {
+	background: #69c7c6;
+}
+
+.demo-box span {
+	color: #69c7c6;
+}
+
+.price .option span.spacer {
+	background: #69c7c6;
+}			
+
+.form-row input.btn { 
+	background: #69c7c6;  	
+}
+
+.form-row input.btn:hover, 
+.form-row input.btn:focus {
+	background: #69c7c6;
+}	
+
+.price .ribbon {
+	background-color: #323f4a;
+}
+
+.videooverlay {
+	position: fixed; right: 0; bottom: 0;
+	min-width: 100%; min-height: 100%;
+	width: auto; height: auto; z-index: -100; 
+	background: rgba(97,114,144,.5) url(../../images/background_block_trans.png); 
+}
+
+
+	
+	.box-right .image-box {
+		background: url(../../pictures/sample1.jpg) 50% 0 / cover no-repeat;	
+	}
+	
+	.box-left .image-box {
+		background: url(../pictures/sample6.jpg) 50% 0 / cover no-repeat;	
+	}
+	
